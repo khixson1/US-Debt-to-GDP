@@ -1,5 +1,5 @@
 # US-Debt-to-GDP
-This work up showcases a graph which overlays the Gross Domestic Product (GDP) with Total US Debt 
+This work showcases a graph which overlays the Gross Domestic Product (GDP) with Total US Debt 
 
 ![image](https://user-images.githubusercontent.com/8357088/146660446-f32b250f-0f4e-4973-9139-78428d32beb8.png)
 
